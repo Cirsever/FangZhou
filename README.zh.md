@@ -5,7 +5,6 @@
   <a href="README.zh.md">中文版</a>
 </p>
 
-## 引流活动
 
 ---
 DeepSeek满血版免费领啦！邀请好友注册和使用，最高双方可获得145元代金券，免费抵扣3625万tokens，畅享R1与V3模型！参与入口：https://volcengine.com/L/PQljlEcDy_A/  邀请码：IH2IJO8S
